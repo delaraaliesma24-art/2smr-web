@@ -1,0 +1,77 @@
+estructura basica:
+<!DOCTYPE html>
+<html>
+<head>
+	
+</head>
+<body>
+
+</body>
+</html>
+
+
+<header> <h1></h1> </header>
+
+informacion principal:<main></main>
+parrafo:<p></p>
+seccion/articulo: 
+<section><article>
+
+
+</article></section>
+caveceras:
+<h1></h1>
+<h2></h2>
+cursiva: <i></i>
+hipervinculo: <a>""> texto </a>
+imagenes:  <img src="" alt=""> 
+lineas horizontales :<hr>
+negrita:<b></b>
+texto importante:<strong></strong>
+texto marcado: <mark></mark>
+titulo: <title></title>
+tablas:
+ <table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table> 
+datos de la tabla: <td></td>
+linea de tabla
+<tr>
+<td> </td>
+</tr>
+encabezado de tabla: <th></th>
+
+<tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+
+listas: 
+listas desordenadas;
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul> 
+
+listas ordenadas:
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol> 
+pie de pagina: <footer></footer>
+encabezado de pagina: <header></header>
+
+especificar el indice: <nav></nav>

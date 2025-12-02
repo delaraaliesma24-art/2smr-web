@@ -1,0 +1,77 @@
+ body { 
+        background-color: lightgray;
+    }
+
+h1 {
+    text-align: center;
+    font-size: 300%;
+    letter-spacing: 10px;
+    background-color: lightcoral;
+ font-family: sans-serif;
+ margin: 10px;
+}
+
+h2 {
+margin-top: 5%;
+background-color: lightcoral;
+color: white;
+}
+
+.fondoblanco {
+    background-color: rgb(26, 201, 17);
+}
+
+.spanrojo {
+    color: red;
+}
+p {
+    text-indent: 2rem;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+img {
+border-color: red;
+border-style: double;
+float: left;
+margin-bottom: 10px;
+margin-right: 10px;
+}
+
+.caja2 {
+    border-radius: 5%;
+    width: 40%;
+    clear: both;
+    box-shadow: 5px 9px 3px gray;
+    text-align: justify;
+    border: 3px dashed #000;
+    padding: 20px;
+    background-color: #fef0a1;
+    margin:2%;
+}
+
+.caja3 {
+border: 40%;
+top: 0;
+right: 10px;
+    left: 20%;
+    position:absolute;
+    text-align: justify;
+     width: 40%;
+margin: 20%;
+}
+.caja1 {
+margin: 2%;
+background-color: #fef0a1;
+padding: 20px;
+border: 10px solid #dba905f1;
+width: 60%;
+text-align: justify;
+float: left;
+}
+
+
+p.bola {
+    border: solid;
+    border-image-source: url("img/bola-100.png");
+}

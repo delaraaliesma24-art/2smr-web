@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Noticias SMR </title>
+</head>
+<body>
+    <header> <h1> NOTICIAS SMR </h1> </header>
+<main>
+       <section><article>
+        <p>SMR El boletín de clase sobre tecnología y actualidad </p>
+        <nav>
+          <a href="#"> Inicio |</a>
+           <a href="#">Tecnología | </a>
+            <a href="#">Deportes |</a>
+           <a href="#">cultura </a>
+        </nav>
+       </article></section>
+
+<section><article>
+   <h2>NOTICIAS RECIENTES</h2> 
+    <h3>Nuevo curso de HTML en SMR </h3>
+    <p>publicado por <i>Profesorde SMR  </i>el 8 de octubre de 2025 </p>
+
+    <p>Los alumnos del grupo de SMR comienzan un nuevo módulo sobre desarrollo web básico. Aprenderán HTML, CSS y JavaScript. </p>
+
+    <h2>Visita al museo de informática </h2>
+
+    <p><i>Departamento de Informática </i></p>
+
+    <p>Hoy los estudiantes han conocido la evolución de los primeros ordenadores personales y su impacto en la sociedad. </p>
+
+    <h2>ARTÍCULOS DESTACADOS</h2>
+<h3>La importancia del HTML semántico </h3>
+<p>Usar etiquetas con significado ayuda a los buscadores, facilita la accesibilidad y mejora la comprensión del código. </p>
+<p>Por ejemplo un lector de pantalla entiende que <header> es una  cabecera y no solo un contenedor visual </p>
+<h3>Buenas prácticas de estructura </h3>
+<p>Usar encabezados en orden (h1, h2, etc.) permite una jerarquía clara en el contenido</p>
+<h4>NOTAS DEL PROFESOR</h4>
+<ul>
+<li>Repasar las etiquetas semánticas antes del examen.</li>
+<li>Usar siempre estructura clara y jerarquía de títulos. </li>
+<li>Comentar el código para mayor claridad. </li>
+</ul>
+</article></section>
+</main>
+<aside>© 2025 Departamento de Informática - IES Medina Azahara </aside>
+
+<footer> 
+    <p>Contacto: <a href="#">profesor@centro.es</a></p> </footer>
+
+</body>
+</html>
